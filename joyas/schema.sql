@@ -2,6 +2,8 @@
 @author evilnapsis
 @brief Modelo de base de datos
 **/
+/* Nombre de la base de datos para la empresa de joyas katanalite en el amazona este nombre es opcional
+*/
 create database katanalite;
 use katanalite;
 
